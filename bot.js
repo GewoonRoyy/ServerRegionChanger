@@ -1,7 +1,7 @@
 /*
- * Discord Bot Builder Bot
+ * SRC
  * Version 1.2.0
- * Robert Borghese
+ * RoyHY
  */
 
 const Files = require(require('path').join(__dirname, 'js', 'Main.js')).Files;
