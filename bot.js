@@ -1,7 +1,7 @@
 /*
  * SRC
  * Version 1.2.0
- * RoyHY
+ * Roykuh
  */
 
 const Files = require(require('path').join(__dirname, 'js', 'Main.js')).Files;
