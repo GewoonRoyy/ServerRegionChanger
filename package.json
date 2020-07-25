@@ -1,6 +1,6 @@
 {
 	"name": "ServerRegionChanger",
-	"author": "RoyHY",
+	"author": "Roykuh",
 	"main": "bot.js",
 	"version": "1.2.0",
 	"dependencies": {
